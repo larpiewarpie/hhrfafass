@@ -158,6 +158,14 @@ export default function Home() {
             socials={[{ name: "Telegram", url: "https://t.me/bandobaby_i", icon: "TG" }]}
             delay={1.7}
           />
+          <ProfileCard
+            name="Zerq"
+            role="Manager @ csint.ing"
+            color="#87cefa"
+            image="https://files.catbox.moe/m0j848.jpg"
+            socials={[{ name: "Telegram", url: "https://t.me/coldamiri", icon: "TG" }]}
+            delay={1.7}
+          />
         </motion.div>
 
         {/* Footer Info */}
